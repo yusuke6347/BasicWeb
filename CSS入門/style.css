@@ -26,7 +26,7 @@ html {
     padding: 0;
 }
   
-/*.cardの header, article, footer 5 + 12 + 5 = 22em */
+/*cardの header, article, footer 5 + 12 + 5 = 22em */
   
 .card header, footer {
     height: 5em;
